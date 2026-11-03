@@ -25,4 +25,40 @@ Jill is a citizen scientist. She learned about this issue at an environmental ta
 get more info so she can tell her family and friends about this at Thanksgiving. She is not very technical but is well informed on
 environmental issues and very passionate.
 
+Abed is studying plankton in another lake, with his own long-term dataset.
+He wants a framework to apply to his own data, to visualize populations / predict predators.
+Abed needs to have access to inner functions (at least to see them) so he can adapt them, or the tool needs to allow users to upload information to the package.
+He is relatively skilled with R and has not used python very often.
+
+Troy is a climate change science writer doing a piece on Lake Washington. 
+He wants to make figures to put in his piece about how the different climate actions have affected the health of the lake. 
+He needs some level of input on what the figures look like, or easy generation of figures.
+Troy is not a data scientist and is not a good coder. 
+
+Annie is a very intense open water swimmer in Lake Washington. 
+She is always checking various sources for the water health (algae levels, bacteria, whatever) so she knows if it's safe to swim.
+She is curious about the tool and how it applies to this hobby, as plankton can be good indicators of water health, and she would like an application to the current quality of the water.
+Annie is not a data scientist or coder, but a skilled webpage user. 
+
+Britta is a NOAA scientist studying decreasing salmon populations in Lake Washington.
+She wants the plankton data / species composition to run an analysis on goodness of food supply for salmon in Lake Washington, with potential applications to shad populations for competition. 
+She wants to be able to extract the data and manipulate it to suit her current data needs, which can be very different from how we're doing the tool, so she needs a lot of customizability and availability to the raw data. 
+She is skilled in both R and python. 
+
+Jeff is a manager at a wastewater treatment plant and wants to route sewage towards Lake Washington. 
+He wants support of his idea that the lake can handle it and there's enough species that will break down the bacteria, or to say that the lake is healthy enough and can take a beating.
+He wants to quickly extract visualizations and time series plots to show how well the lake is doing, and say that introducing sewage won't hurt it thaaaaat much.
+He is not a data scientist, but is skilled with excel, not python. 
+
+Rick is an algae farmer who is looking to expand his work to Lake Washington.
+He wants to know what kind of algae the lake can currently support as well as the algae it can't, so he knows how much he can introduce that will grow well. 
+He needs customizability and scenarios in the graphs, with direct extensions to algae populations, and would like future projections. 
+He is familiar with RShiny apps but not python.
+
+Carl is a student in Ewan's lab and is working on a related project, where he will use the plankton data to predict algae populations, and generate relationships environmental covariates and which algae populations are doing well / poorly. 
+He wants to use the tool to generate time series of population distributions over time to he can better understand how they change, and has his own environmental data to compare it to. 
+He needs to be able to download the data / manipulate it to suit the format of his own data, and potentially the tool could use a data upload as a predictive parameter to generate specialized graphs. 
+He is skilled with R and python.
+
+Carly is a casual fisherman who loves the taste of shad. She has been noticing some more shad populations in the lake and wants to know if this is a real trend and not random. She wants to see how much fish are there available for her to catch. She is not skilled in python. 
 
