@@ -62,3 +62,14 @@ He is skilled with R and python.
 
 Carly is a casual fisherman who loves the taste of shad. She has been noticing some more shad populations in the lake and wants to know if this is a real trend and not random. She wants to see how much fish are there available for her to catch. She is not skilled in python. 
 
+Emma is a recreational fisher that caught an American Shad in Lake Washington. Out of curiosity, she wants to know what plankton the shad was likely eating recently. She wants simple information about what plankton are currently dominant in the lake. She is relatively tech savvy but doesn't have much experience with advanced models.
+
+Izzy is a graduate student in quantitative ecology at the University of Washington. She is interested in modeling population dynamics and relationships between interacting species. She wants to learn skills relating to developing these types of models specifically, 
+as well as software development in general. She has some experience with mathematical and statistical modeling but very little programming or software experience.
+
+Grace is an undergraduate student in an aquatic ecology class at the University of Washington. She has to write a research paper on predator-prey dynamics in Lake Washington, and wants information about plankton distribution over time in the lake. She wants simple summary statistics and time series information. She has no quantitative or modeling experience and is planning on using AI to get the information she wants.
+
+Mike is a fisheries management official tasked with developing policies to manage the American Shad population in Lake Washington. He wants to examine the trend in population dynamics for American Shad over time, and project future possible scenarios. He needs concrete numbers to base his policies on. He is not very tech savvy but he has employeesthat he plans to ask for assistance getting the information he wants.
+
+Hannah is a plankton researcher at the University of New Hampshire. She is curious about how the plankton species in the NH lakes she studies compare to lakes all over the country. She wants a comprehensive list of the species present in Lake Washington to compare to
+her lakes and other lakes across the country. She has used population dynamics models before. 
