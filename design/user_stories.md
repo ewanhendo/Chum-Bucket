@@ -73,3 +73,23 @@ Mike is a fisheries management official tasked with developing policies to manag
 
 Hannah is a plankton researcher at the University of New Hampshire. She is curious about how the plankton species in the NH lakes she studies compare to lakes all over the country. She wants a comprehensive list of the species present in Lake Washington to compare to
 her lakes and other lakes across the country. She has used population dynamics models before. 
+
+Chris Hoffman - wants to help record plankton data that he enocunters while he fishes on lake washington - he hopes the interface to be easily accessible and self explanitory - he does not have any formal training beyond highschool but can navigate a webpage easily
+
+Kendra - is navigating through the website to see how source data of a publication was manipulated  - she is a grant administor who decides which projects to fund  she has read a wide range of aceademic journals but doesnt know much about plankton and is checking the data to make sure the reported statistics were accurately defined
+
+Zach lives along lake washington and loves in home aquariums - he is interested in reducing his water bill by routing lake water to his local fish tanks - he needs to understand the water quality constiuents and plankton profiles that are present in the water through out the year in order to understand how to doctor the water so his native fish species can thrive and potentially cut back on feed cost too - he has lots of reddit experience but is not comfortable with large data structures or governementy looking websites.
+
+Louisa is a working mom who heard that the lake washington beach she has been bringing her children too every weekend in the summer has been contaminated - she came across this website that will help her understand what is going with the algal populations within the lake - she wants to understand if her children will be ok playing in the water or to waht degree they can - she needs to find her answer quickly because they are in the parking lot, but she is intimidated by unfriendly user interfaces
+
+Dr. Shelly Oberon is a career researcher at the university of fair - wants to access long term water quality data - to test statistical significance of watershed run off and water quality in Lake Washington - Dr. Oberon is a 300 time cited author concerning trends within pacific northwest watersheds
+
+Lucy - wants to identify what type of plankton she is most likely to encounter during her beach day at lake washington - she hopes to identify which type of plankton she will see based upon location and time of year - she is a curious girl who watches too many documentaries
+
+Chris Hoffman - wants to help record plankton data that he enocunters while he fishes on lake washington - he hopes the interface to be easily accessible and self explanitory - he does not have any formal training beyond highschool but can navigate a webpage easily
+
+Kendra - is navigating through the website to see how source data of a publication was manipulated  - she is a grant administor who decides which projects to fund  she has read a wide range of aceademic journals but doesnt know much about plankton and is checking the data to make sure the reported statistics were accurately defined
+
+Maria is a civil engineer interested in the sewer systems in king county - she wants to understand how storm water run off effects the fish algal and populations, specifically how increased urbanization has played a roll in these populations and if different generations of storm water management has influence fish and plankton populations - she is very familiar with water quality metrics and large data sets, but accessing this data is hard for her to do
+
+Jessica is a wastewater treatment operator how has some concerns about the way her plant is discharging its outflow, specifically during storm events - she knows that her plant has a combined storm water system and is prone to flooding during rain events and often discharges directly to the lake - she hopes to us this historical data set to see if there are any associated trend between overflow events and population density during her time working at the plant, and her own records of overflow events
