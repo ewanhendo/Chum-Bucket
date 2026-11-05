@@ -10,3 +10,6 @@ email: kahippe@uw.edu
 
 Izzy Pentony, University of Washington, QERM
 email: ipentony@uw.edu
+
+Lucy Hegenderfer, University of Washington, CEE
+email: lucyh26@uw.edu
