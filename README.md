@@ -5,7 +5,7 @@ Contributers:
 Ewan Henderson, University of Washington, QERM
 email: ewanh@uw.edu
 
-Katie Hippe, UW, QERM,
+Katie Hippe, University of Washington, QERM,
 email: kahippe@uw.edu
 
 Izzy Pentony, University of Washington, QERM
