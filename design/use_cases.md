@@ -68,3 +68,25 @@ Implied:
 ### skil level:
 * technical proficiency: medium to high (basic programming, SQL-esque database concepts)
 * domain knowledge: strong in historical data analysis, trend interpretation
+
+# Use Case: Casual Viewers (Izzy draft)
+
+### Who is the User?
+* **Persona/Role:** recreationalists, non-technical enthusiasts
+* **Context:** these are people who do not need very technical or extensive amounts of information from the tool, but simply want to answer basic questions that they are curious about
+
+### What Do They Want to Do with the Tool?
+* **Primary Tasks:**
+     * input simple commands to answer specific questions they are curious about
+     * get general summary information about current lake status
+* **Operational Workflows:**
+     * *Standard Operations:* using tool’s standard formatting, dataset, and inputs; inputting simple queries or generating summary information well within the bounds of the tool
+     * *Edge/Exception Operations:* may occasionally pursue questions/prompts outside the constraints of the tool, especially due to a lack of understanding of its abilities
+
+### What Needs and Desires Do They Have for the Tool?
+* **Functional Needs:** ability to input simple prompts to answer simple questions without needing a deep understanding of the tool, ability to provide a simple prompt to generate a range of summary information
+* **Desires/Experience Preferences:** user-friendly interface, built-in instructions for how to use the tool
+
+### What is Their Skill Level?
+* **Technical Proficiency:** low to medium
+* **Domain Knowledge:** few specific skills and little specific knowledge
