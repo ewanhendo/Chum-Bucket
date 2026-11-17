@@ -46,3 +46,25 @@ Operational Workflows:
 
 Implied:
 - datasets are preloaded and ready to be accessed by package
+
+# use case: historical time series analyzer (katie draft)
+### user:
+* historian, data-driven researcher
+* this is a researcher who is less interested in predictive future scenarios and more focused on historical record, especially for integration with external research
+### what do they want to do:
+* primary tasks:
+   * view historical ecological / water-quality data through multiple visualizations
+   * query specific historical subsets, download raw or filtered datasets in structured formals
+   * perform light data transformations within the tool
+* operational workflows: interactive charting dashboards, structured data queries
+   * edge operations: handling gaps in the record, managing memory limits, managing custom uploaded datasets against the tool's standard format
+### what needs and desires:
+* functional needs:
+   * robust querying support
+   * viewable functions to show internal data transformation, plotting logic
+   * data export
+* desires / preferences:
+   * ability to upload own dataset to use in conjunction with the tool
+### skil level:
+* technical proficiency: medium to high (basic programming, SQL-esque database concepts)
+* domain knowledge: strong in historical data analysis, trend interpretation
