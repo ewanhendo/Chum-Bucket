@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=64.0”, "wheel", "setuptools_scm>=8.1"]
+build-backend = "setuptools.build_meta”
+
+[project]
+name = "Chum-Bucket"
+dynamic = ["version"]
+authors = [
+{name="Ewan Henderson", email="ewanh@uw.edu"},
+{name="Izzy Pentony", email="ipentony@uw.edu"},
+{name="Lucy Hegenderfer", email="lucyh26@uw.edu"},
+{name="Katie Hippe", email="kahippe@uw.edu"}
+]
+description = "Plankton, Shad, and algea population model based on Lake Washington plankton dataset."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+"numpy>=1.25",
+"pandas>=2.1",
+]
+classifiers = [
+"Programming Language :: Python :: 3",
+"License :: OSI Approved :: MIT License",
+"Operating System :: OS Independent",
+]
