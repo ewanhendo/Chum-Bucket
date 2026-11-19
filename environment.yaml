@@ -1,0 +1,6 @@
+name: chumbucket
+channels:
+- conda-forge
+dependencies:
+- matplotlib
+- numpy>=1.2
