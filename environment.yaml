@@ -4,3 +4,4 @@ channels:
 dependencies:
 - matplotlib
 - numpy>=1.2
+- pytest
